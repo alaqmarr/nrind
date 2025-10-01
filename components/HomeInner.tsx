@@ -29,15 +29,17 @@ const HomeInner = ({ products }: { products: any }) => {
                         <div class="tp-slider-2__content">
                             <div class="tp-slider-2__section-box pb-10">
                                 <span class="tp-slider-2-subtitle wow tpfadeUp" data-wow-duration=".9s"
-                                data-wow-delay=".3s">START donate on our charity</span>
+                                data-wow-delay=".3s">Greetings from</span>
                                 <h4 class="tp-slider-2-title wow tpfadeUp" data-wow-duration=".9s"
-                                data-wow-delay=".5s">Some People <br>Need Help &<br>We <b>Give it.</b></h4>
+                                data-wow-delay=".5s">NR <br>Industrial Enterprises</h4>
                             </div>
                             <div class="tp-slider-2__content-text">
                                 <p class="wow tpfadeUp" data-wow-duration=".9s"
-                                data-wow-delay=".7s">Help us build a future that value all human lives. Join us on our welfare projects on <br>education, healthcare, and livelihood.</p>
+                                data-wow-delay=".7s">
+                                NR Industrial Enterprises is a leading manufacturer and supplier of high-quality industrial products. With a commitment to innovation and excellence, we provide solutions that meet the diverse needs of our clients across various industries.
+                                </p>
                                 <a class="tp-btn wow tpfadeUp" data-wow-duration=".9s"
-                                data-wow-delay=".9s" href="about-us.html">Discover More</a>
+                                data-wow-delay=".9s" href="/about">Know More</a>
                             </div>
                         </div>
                     </div>
@@ -227,56 +229,44 @@ const HomeInner = ({ products }: { products: any }) => {
                         <div class="col-xl-6 col-lg-6 wow tpfadeLeft" data-wow-duration=".9s"
                         data-wow-delay=".5s">
                             <div class="tp-faq-2__section-title">
-                                <span class="tp-section-subtitle-2">our FAQS</span>
-                                <h4 class="tp-section-title">What are They Asked?</h4>
+                                <span class="tp-section-subtitle-2">FAQS</span>
+                                <h4 class="tp-section-title">Quick Questions</h4>
                             </div>
                             <div class="tp-custom-accordion">
                                 <div class="accordions" id="accordionExample">
                                     <div class="accordion-items">
                                       <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-buttons" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            How to donate anonymously to course? 
+                                            Where is NR Industrial Enterprises located?
                                         </button>
                                       </h2>
                                       <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Presumably, the most famous charity organization, Cross has its own blog. There they post stories about their mission and the work they did.
+                                            4-3-180 Mahankali Street, Below AP Vardhaman Bank, Ranigunj, Secunderabad - 500003, Telangana, India.
                                         </div>
                                       </div>
                                     </div>
                                     <div class="accordion-items">
                                       <h2 class="accordion-header" id="headingTwo">
                                         <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            Will they change monthely or annually function? 
+                                            What do we deal in?
                                         </button>
                                       </h2>
                                       <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Presumably, the most famous charity organization, Cross has its own blog. There they post stories about their mission and the work they did. 
+                                            NR Industrial Enterprises is a leading manufacturer and supplier of high-quality industrial products. With a commitment to innovation and excellence, we provide solutions that meet the diverse needs of our clients across various industries.
                                         </div>
                                       </div>
                                     </div>
                                     <div class="accordion-items">
                                       <h2 class="accordion-header" id="headingThree">
                                         <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Where we can donate for poor children? 
+                                            How can you reach out to us? 
                                         </button>
                                       </h2>
                                       <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Presumably, the most famous charity organization, Cross has its own blog. There they post stories about their mission and the work they did.
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="accordion-items">
-                                      <h2 class="accordion-header" id="headingFour">
-                                        <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                            Can't we do for them something?  
-                                        </button>
-                                      </h2>
-                                      <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            Presumably, the most famous charity organization, Cross has its own blog. There they post stories about their mission and the work they did.
+                                            You can reach out to us through our website contact form, email us at nrindent@gmail.com, or call us at +91 98855 08494.
                                         </div>
                                       </div>
                                     </div>
