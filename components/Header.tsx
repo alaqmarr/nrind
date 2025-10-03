@@ -17,7 +17,7 @@ const Header = ({ categories }: { categories: any }) => {
            </div>
            <div class="tpoffcanvas__logo">
               <a href="/">
-                 <p>NR Industrial Enterprise</p>
+                 <img src="/logo.jpg" alt="logo" style="width: 150px; height:auto;"/>
               </a>
            </div>
            <div class="tpoffcanvas__title">
@@ -56,7 +56,7 @@ const Header = ({ categories }: { categories: any }) => {
                         <div class="col-xl-2 col-lg-6 col-md-4 col-7">
                             <div class="tp-header-2__logo">
                                 <a href="/">
-                                    <p>NR Industrial Enterprises</p>
+                                    <img src="/logo.jpg" alt="logo" style="width: 150px; height:auto;"/>
                                 </a>
                             </div>
                         </div>
@@ -65,6 +65,8 @@ const Header = ({ categories }: { categories: any }) => {
                                 <nav class="tp-main-menu-content">
                                     <ul>
                                         <li><a href="/">Home</a></li>
+                                        <li><a href="/about">About Us</a></li>
+                                        <li><a href="/products">Products</a></li>
                                         <li class="has-dropdown"><a href="#">Categories</a>
                                             <ul class="submenu tp-submenu">
                                                 ${categories.map((category: any) => (`

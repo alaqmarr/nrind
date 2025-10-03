@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Footer = ({categories} : {categories: any}) => {
+const Footer = ({ categories }: { categories: any }) => {
     const html = `
         <footer>
         <!-- footer-area-start -->
@@ -13,7 +13,7 @@ const Footer = ({categories} : {categories: any}) => {
                             <div class="tp-footer__widget footer-2-col-1">
                                 <div class="tp-footer__logo">
                                     <a href="/">
-                                        <p>NR Industrial Enterprises</p>
+                                        <img src="/logo.jpg" alt="logo" style="width: 150px; height:auto;"/>
                                     </a>
                                 </div>
                                 <div class="tp-footer__contact-list">
@@ -22,7 +22,7 @@ const Footer = ({categories} : {categories: any}) => {
                                             <i class="flaticon-mail"></i>
                                         </div>
                                         <div class="tp-footer__text">
-                                             <a href="mailto:poorexcharity@gmail.com">poorexcharity@gmail.com</a>
+                                             <a href="mailto:nrindnet@gmail.com">nrindent@gmail.com</a>
                                         </div>
                                     </div>
                                     <div class="tp-footer__contact-item d-flex about-items-center">
@@ -30,7 +30,7 @@ const Footer = ({categories} : {categories: any}) => {
                                             <i aria-hidden="true" class="flaticon-phone"></i>
                                         </div>
                                         <div class="tp-footer__text">
-                                             <a href="tel:+990988764578">+99 (098) 876 4578</a>
+                                             <a href="tel:+919885508494">+91 98855 08494</a>
                                         </div>
                                     </div>
                                 </div>
@@ -66,7 +66,7 @@ const Footer = ({categories} : {categories: any}) => {
                         data-wow-delay=".9s">
                             <div class="tp-footer__widget footer-2-col-4">
                                 <div class="tp-footer__donate-box">
-                                    <h4 class="tp-footer__donate-title-sm">Enquire about our products/h4>
+                                    <h4 class="tp-footer__donate-title-sm">Enquire about our products</h4>
                                     <a class="tp-btn theme-2-bg" href="/contact">Contact Now</a>
                                 </div>
                             </div>

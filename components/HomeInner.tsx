@@ -9,20 +9,6 @@ const HomeInner = ({ products }: { products: any }) => {
 
         <!-- slider-area-start -->
         <div class="tp-slider-2__area tp-slider-2__mb p-relative">
-            <div class="tp-slider-2__shape-1 d-none d-xl-block">
-                <img src="assets/img/slider/slider-shape-2-1.png" alt="">
-            </div>
-            <div class="tp-slider-2__shape-2 d-none d-xxl-block">
-                <img src="assets/img/slider/slider-shape-2-3.png" alt="">
-                <div class="tp-slider-2__circle-text">
-                    <img src="assets/img/slider/slider-shape-2-2.png" alt="">
-                </div>
-            </div>
-            <div class="tp-slider-2__thumb-text d-none d-md-block">
-                <span>Our Volunteers</span>
-                <img src="assets/img/slider/slider-shape-2-4.png" alt="">
-            </div>
-            <div class="tp-slider-2__grey-bg"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7 col-lg-6">
@@ -100,7 +86,7 @@ const HomeInner = ({ products }: { products: any }) => {
         <!-- about-area-start -->
         <div class="tp-about-2__area fix p-relative pt-120 pb-120">
             <div class="tp-about-2__text-box d-none d-xl-block">
-                <h5 class="tp-about-2__big-text">poorex</h5>
+                <h5 class="tp-about-2__big-text">NRINDENT</h5>
             </div>
             <div class="container">
                 <div class="row align-items-center">
@@ -210,17 +196,9 @@ const HomeInner = ({ products }: { products: any }) => {
         
         <!-- faq-area-start -->
         <div class="tp-faq-2__area tp-faq-2__space grey-bg z-index fix p-relative">
-            <div class="tp-faq-2__shape">
-                <img src="assets/img/faq/faq-shape-2.png" alt="">
-            </div>
-            <div class="tp-faq-2__bg" data-background="assets/img/faq/faq-bg-2.jpg">
+            <div class="tp-faq-2__bg">
                 <div class="tp-faq-2__bg-text text-center d-none d-lg-block">
-                    <span>Donation Can <br>Help Change a <b>Life</b></span>
-                </div>
-                <div class="tp-faq-2__bg-icon d-none d-lg-block">
-                    <a class="popup-video" href="https://www.youtube.com/watch?v=PO_fBTkoznc">
-                        <i class="flaticon-play-button"></i>
-                    </a>
+                    <span>Contact for <br>further <b>assistance</b></span>
                 </div>
             </div>
             <div class="tp-faq-2__wrapper">
