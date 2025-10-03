@@ -5,7 +5,7 @@ const page = () => {
     <main>
 
         <!-- breadcrumb-area-start -->
-        <div class="tp-breadcrumb__area p-relative fix tp-breadcrumb-height" data-background="assets/img/breadcrumb/breadcrumb-bg.png">
+        <div class="tp-breadcrumb__area p-relative fix tp-breadcrumb-height">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
